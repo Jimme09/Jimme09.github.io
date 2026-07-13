@@ -12,7 +12,7 @@ CHECKLIST FOR THIS PAGE (copy this file for each new project):
 
 # Bhutan National Spatial Data Infrastructure (NSDI)
 
-![Project overview image](../assets/images/project1-cover.png)
+![Project overview image](../assets/images/NSDI-project.png)
 
 ## Overview
 

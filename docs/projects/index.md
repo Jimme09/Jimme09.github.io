@@ -20,7 +20,7 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
+![](../assets/images/NSDI-project.png)
 
 **[NSDI-Project](NSDI-project.md)**
 
