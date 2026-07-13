@@ -29,9 +29,10 @@ platform centralizing geospatial data for 21+ government agencies — building k
 designing the visual identity, and coordinating stakeholder data collection to support
 a system now hosting 113+ datasets.
 
-`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
+`Astro` `Javascript` `Visily` `Git` `Github` `VS Code`
 
 [View Project →](NSDI-project.md){ .md-button }
+[View Live Site](https://nsdi.systems.gov.bt/){ .md-button }
 
 </div>
 
