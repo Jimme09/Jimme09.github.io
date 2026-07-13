@@ -31,7 +31,7 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-I am a geospatial developer with a strong foundation in spatial data management, terrain analysis, and web technology. I focus on building efficient workflows for large-scale spatial datasets, specializing in both Enterprise Geodatabase structures and open-source GIS environments. Utilizing tools like Python, JavaScript, and advanced database modeling, I enjoy solving complex structural and data processing challenges to unlock actionable spatial insights. I am currently seeking opportunities to join an innovative team as a geospatial developer where I can build impactful, scalable geo-applications.
+I am a Geoinformatics Engineer with a strong foundation in GIS, remote sensing, and spatial data management, currently working on national-level geospatial projects in Bhutan. My experience spans spatial data quality control, satellite image processing, Land Use and Land Cover mapping, and cartographic production using tools like ArcGIS Pro, QGIS, and Google Earth Engine. I've also been expanding into web GIS development, building geospatial web applications with Astro, JavaScript, and Python-based automation to make spatial data more accessible and usable. I enjoy working at the intersection of geospatial analysis and web technology, and I'm looking to grow further as a geospatial developer building impactful, scalable geo-applications.
 
 </div>
 
