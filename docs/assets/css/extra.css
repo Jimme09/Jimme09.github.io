@@ -12,7 +12,12 @@
 .hero {
   text-align: center;
   padding: 1rem 1rem 1.25rem 1rem;
-  background: linear-gradient(135deg, #e8f4f8 0%, #f0f7ff 50%, #e8f0fe 100%);
+  background:
+    linear-gradient(135deg,
+      rgba(232, 244, 248, 0.6) 0%,
+      rgba(240, 247, 255, 0.6) 50%,
+      rgba(232, 240, 254, 0.6) 100%),
+    url('../images/hero-image.png') center / cover no-repeat;
   border-radius: 8px;
 }
 
