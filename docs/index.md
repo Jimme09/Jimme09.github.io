@@ -55,8 +55,8 @@ I am a Geoinformatics Engineer with a strong foundation in GIS, remote sensing, 
 - :material-layers:{ .lg .middle } **GIS & Remote Sensing**
 
   ***
-  - ArcGIS Pro, ArcGIS Online, QGIS
-  - Google Earth Engine, Google Earth Pro
+  - ArcGIS Pro, ArcGIS Online, ArcGIS Enterprise
+  - QGIS, Google Earth Engine, Google Earth Pro
   - ERDAS Imagine, TerrSet
   - Sentinel-2 satellite image processing
   - Land Use and Land Cover (LULC) mapping
@@ -65,16 +65,19 @@ I am a Geoinformatics Engineer with a strong foundation in GIS, remote sensing, 
 - :material-code-braces:{ .lg .middle } **Programming & Web Development**
 
   ***
-  - Python — GIS workflow automation
+  - Python — GeoPandas and spatial data workflows
+  - GIS workflow automation
   - JavaScript fundamentals
   - Astro framework
   - Git and GitHub version control
+  - VS Code
   - Web GIS application development
 
 - :material-database:{ .lg .middle } **Data Management**
 
   ***
-  - Spatial database concepts
+  - PostgreSQL, pgAdmin
+  - Spatial database concepts (PostGIS)
   - Relational Database Management Systems (RDBMS)
   - Geospatial data quality control (topology, attribute validation)
   - Metadata management, national data standards
