@@ -32,7 +32,8 @@ a system now hosting 113+ datasets.
 `Astro` `Javascript` `Visily` `Git` `Github` `VS Code`
 
 [View Project →](NSDI-project.md){ .md-button }
-[View Live Site](https://nsdi.systems.gov.bt/){ .md-button }
+[NSDI Site](https://nsdi.systems.gov.bt/){ .md-button }
+[GitHub](https://github.com/Jimme09/NSDI-project.git){ .md-button }
 
 </div>
 
