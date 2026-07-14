@@ -55,49 +55,47 @@ I am a Geoinformatics Engineer with a strong foundation in GIS, remote sensing, 
 - :material-layers:{ .lg .middle } **GIS & Remote Sensing**
 
   ***
-  - QGIS, ArcGIS Pro, Google Earth Engine
-  - GDAL / OGR, GRASS GIS
-  - Multispectral and SAR image analysis
-  - Cloud Native Geospatial (COG, STAC, Zarr)
+  - ArcGIS Pro, ArcGIS Online, QGIS
+  - Google Earth Engine, Google Earth Pro
+  - ERDAS Imagine, TerrSet
+  - Sentinel-2 satellite image processing
+  - Land Use and Land Cover (LULC) mapping
+  - Terrain analysis and cartographic production
 
-- :material-code-braces:{ .lg .middle } **Programming**
-
-  ***
-  - Python — GeoPandas, NumPy, Pandas, Matplotlib
-  - R — sf, terra, ggplot2
-  - JavaScript — Leaflet, MapLibre GL
-  - SQL, PostgreSQL + PostGIS
-
-- :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
+- :material-code-braces:{ .lg .middle } **Programming & Web Development**
 
   ***
-  - Supervised classification — Random Forest, XGBoost
-  - Deep learning for image segmentation — U-Net, SAM
-  - scikit-learn, PyTorch, TensorFlow
-  - Object detection in satellite imagery
+  - Python — GIS workflow automation
+  - JavaScript fundamentals
+  - Astro framework
+  - Git and GitHub version control
+  - Web GIS application development
 
-- :material-earth:{ .lg .middle } **Web Mapping & Data**
-
-  ***
-  - Leaflet.js, Folium, MapLibre GL JS
-  - Cloud storage — AWS S3, Google Cloud Storage
-  - Data formats — GeoTIFF, GeoParquet, NetCDF
-  - Streamlit for data-driven web apps
-
-- :material-database:{ .lg .middle } **Data & Cloud**
+- :material-database:{ .lg .middle } **Data Management**
 
   ***
-  - PostgreSQL + PostGIS
-  - Cloud storage: AWS S3, Google Cloud Storage
-  - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
+  - Spatial database concepts
+  - Relational Database Management Systems (RDBMS)
+  - Geospatial data quality control (topology, attribute validation)
+  - Metadata management, national data standards
 
-- :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
+- :material-map:{ .lg .middle } **Analysis & Planning**
 
-      - Mission planning and flight operations
-      - Photogrammetry: Agisoft Metashape, OpenDroneMap
-      - Point cloud processing: CloudCompare, PDAL
+  ***
+  - Spatial analysis and visualization
+  - Multi-Criteria Decision Analysis (MCDA)
+  - Digital photogrammetry and image interpretation
+  - Geostatistical analysis and spatial modelling
 
-  </div>
+- :material-palette:{ .lg .middle } **Design & Visualization**
+
+  ***
+  - Adobe Photoshop
+  - Visily (wireframing and UI design)
+  - Cartographic map production
+  - Thematic and web map design
+
+</div>
 
 ---
 
