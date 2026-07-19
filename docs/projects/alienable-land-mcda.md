@@ -72,3 +72,4 @@ _Final suitability surface generated in TerrSet using AHP-weighted WLC modeling_
 ## Links
 
 [View Report (PDF) :material-file-pdf-box:](../assets/Technical-Report-1-Alienable-Land-MCDA.pdf){ .md-button }
+[View Report 2 (PDF) :material-file-pdf-box:](../assets/Technical-Report-2-Desktop-Verification-Field-Validation.pdf){ .md-button }
