@@ -54,7 +54,12 @@ Contributed to a national-level study identifying potentially alienable (state-o
 
 ---
 
+---
+
 ## Key Findings
+
+![MCDA Suitability Output — TerrSet](../assets/images/alienable-land-mcda-output.png)
+_Final suitability surface generated in TerrSet using AHP-weighted WLC modeling_
 
 - Slope (weight: 0.485) and proximity to settlements (weight: 0.213) emerged as the dominant suitability factors
 - Highly Suitable land dropped 58.88% between the unconstrained scenario and the final constrained baseline (from ~1,528,207 acres to ~628,419 acres)
