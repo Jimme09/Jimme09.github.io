@@ -71,4 +71,4 @@ _Final suitability surface generated in TerrSet using AHP-weighted WLC modeling_
 
 ## Links
 
-_Full report available on request — internal national planning document (National Land Commission Secretariat, Royal Government of Bhutan)._
+[View Report (PDF) :material-file-pdf-box:](../assets/Technical-Report-1-Alienable-Land-MCDA.pdf){ .md-button }
