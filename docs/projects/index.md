@@ -38,6 +38,22 @@ a system now hosting 113+ datasets.
 </div>
 
 <div class="project-card" markdown>
+![](../assets/images/alienable-land-cover.png)
+
+**[Mapping of Alienable Land in Bhutan](alienable-land-mcda.md)**
+
+Contributed to a national GIS-based Multi-Criteria Decision Analysis (MCDA) study
+identifying potentially alienable land across Bhutan — supporting spatial data
+processing and AHP/MCDA suitability modeling as part of the Technical Working
+Group, covering all 20 Dzongkhags.
+
+`QGIS` `ArcGIS Pro` `TerrSet` `AHP` `MCDA`
+
+[View Project →](alienable-land-mcda.md){ .md-button }
+
+</div>
+
+<div class="project-card" markdown>
 ![](../assets/images/placeholder-notebook.png)
 
 **[Sample Notebook](sample-notebook.ipynb)**
