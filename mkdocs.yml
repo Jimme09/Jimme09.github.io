@@ -79,7 +79,8 @@ nav:
   - Home: index.md
   - Projects:
       - "All Projects": projects/index.md
-      - "Sample Project": projects/NSDI-project.md
+      - "NSDI Project": projects/NSDI-project.md
+      - "Alienable Land Mapping (MCDA)": projects/alienable-land-mcda.md
       - "Jupyter Notebook Project": projects/sample-notebook.ipynb
     # HOW TO ADD A NEW PROJECT:
     # 1. Copy docs/projects/sample-project.md to docs/projects/your-project-name.md
