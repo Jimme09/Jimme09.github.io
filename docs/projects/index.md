@@ -22,6 +22,7 @@ with an interactive choropleth map, linked charts and AI-generated district summ
 `PostGIS` `Node.js` `OpenLayers` `Chart.js` `MapServer`
 
 [View Project →](bhutan-lulc-dashboard.md){ .md-button }
+[GitHub](https://github.com/Jimme09/bhutan-landuse-dashboard){ .md-button }
 
 </div>
 

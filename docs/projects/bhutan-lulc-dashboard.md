@@ -49,3 +49,9 @@ A full-stack web GIS dashboard I built to explore land use across Bhutan's 20 Dz
 - About 8,600 km² (≈22% of the country) is mapped under a different class in 2020 than in 2016
 - Part of this "change" reflects differences in mapping method and class definitions between the two datasets, not real change on the ground. For example, *Sandy Bank* only exists in the 2020 classification. The transition figures are therefore treated as indicative
 - Southern Dzongkhags such as Samtse hold the largest share of agricultural land, which stands out clearly in the agriculture choropleth
+
+---
+
+## Links
+
+[View Code on GitHub :fontawesome-brands-github:](https://github.com/Jimme09/bhutan-landuse-dashboard){ .md-button }
