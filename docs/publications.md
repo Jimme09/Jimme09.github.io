@@ -3,44 +3,12 @@ hide:
   - toc
   - navigation
 ---
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace each [YOUR ...] placeholder with your actual information
-- [ ] Add or remove entries in each section as needed
-- [ ] Remove sections that are not applicable (e.g., Theses, Conference Presentations)
-- [ ] Add DOI or URL links where available
--->
-
 # Publications
-
-## Journal Articles
-
-1. [YOUR NAME], [CO-AUTHOR NAME], and [CO-AUTHOR NAME] ([YEAR]). "[Your paper title here]." *[Journal Name]*, [Volume] [Issue], [Page range]. [DOI link or URL]
-
-2. [YOUR NAME] and [CO-AUTHOR NAME] ([YEAR]). "[Your paper title here]." *[Journal Name]*, [Volume] [Issue], [Page range]. [DOI link or URL]
-
-3. [YOUR NAME] ([YEAR]). "[Your paper title here]." *[Journal Name]*, [Volume] [Issue], [Page range]. [DOI link or URL]
-
----
-
-## Conference Papers & Presentations
-
-1. [YOUR NAME] and [CO-AUTHOR NAME] ([YEAR]). "[Your presentation title]." *[Conference Name]*, [City, Country].
-
-2. [YOUR NAME] ([YEAR]). "[Your presentation title]." *[Conference Name]*, [City, Country].
-
----
-
-## Theses
-
-- [YOUR NAME] ([YEAR]). *[Your thesis title]*. [Degree type] thesis. [University Name].
-
----
 
 ## Reports & Technical Documents
 
-- [YOUR NAME] et al. ([YEAR]). *[Report title]*. [Organization Name]. [URL or DOI if available]
+- National Land Commission Secretariat, Geo-Informatics Division (2026). *Mapping of Alienable Land in Bhutan — Technical Report 1: Baseline Assessment Using GIS-based Multi-Criteria Decision Analysis (MCDA)*. Version 1.0. Royal Government of Bhutan. Contributor as a member of the Technical Working Group.
+  [:material-file-pdf-box: PDF](assets/Technical-Report-1-Alienable-Land-MCDA.pdf)
 
----
-
-*For citation counts and a full list, see [Google Scholar](https://scholar.google.com) or [ResearchGate](https://www.researchgate.net).*
+- National Land Commission Secretariat, Geo-Informatics Division (2026). *Mapping of Alienable Land in Bhutan — Technical Report 2: Desktop Verification and Field Validation*. Version 1.0. Royal Government of Bhutan. Contributor as a member of the Core Team.
+  [:material-file-pdf-box: PDF](assets/Technical-Report-2-Desktop-Verification-Field-Validation.pdf)

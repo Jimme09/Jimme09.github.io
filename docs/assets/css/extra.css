@@ -110,6 +110,20 @@
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
 }
 
+/* Dark mode: swap the light-blue card backgrounds for a dark tint so text stays readable */
+[data-md-color-scheme="slate"] .md-typeset .grid.cards > ul > li,
+[data-md-color-scheme="slate"] .project-card {
+  background-color: var(--md-code-bg-color);
+}
+
+[data-md-color-scheme="slate"] .hero {
+  background:
+    linear-gradient(135deg,
+      rgba(30, 33, 41, 0.75) 0%,
+      rgba(30, 33, 41, 0.75) 100%),
+    url('../images/hero-image.png') center / cover no-repeat;
+}
+
 .project-card img {
   width: 100%;
   height: 180px;

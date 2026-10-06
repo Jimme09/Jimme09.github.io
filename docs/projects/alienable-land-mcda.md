@@ -1,18 +1,6 @@
-<!--
-CHECKLIST FOR THIS PAGE (copy this file for each new project):
-- [ ] Replace [YOUR PROJECT TITLE] with your project title
-- [ ] Replace the hero image with your own (add to docs/assets/images/)
-- [ ] Update the Overview section
-- [ ] Update the Methods & Tools section
-- [ ] Update the Key Findings section
-- [ ] Update the Links section
-- [ ] Add a card for this project on docs/projects/index.md
-- [ ] Add a nav entry in mkdocs.yml
--->
-
 # Mapping of Alienable Land in Bhutan — GIS-Based MCDA
 
-![Project overview image](../assets/images/alienable-land-cover.png)
+![Project overview image](../assets/images/alienable-land-cover.jpg)
 
 ## Overview
 
@@ -51,8 +39,6 @@ Contributed to a national-level study identifying potentially alienable (state-o
 | QGIS                 | Spatial data preparation and post-processing |
 | ArcGIS Pro           | Spatial data preparation and post-processing |
 | TerrSet (MCE module) | AHP weighting and WLC suitability modeling   |
-
----
 
 ---
 

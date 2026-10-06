@@ -4,20 +4,26 @@ hide:
   - navigation
 ---
 
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace the two placeholder cards (marked [YOUR PROJECT ...]) with your real projects
-- [ ] For each project: add a thumbnail image to docs/assets/images/ and update the path below
-- [ ] For each project: create a project page by copying sample-project.md
-- [ ] For each project: add a nav entry in mkdocs.yml (see the comments there)
-- [ ] Delete placeholder cards you don't need yet
--->
-
 # Projects
 
 A selection of my geospatial projects. Click any card to see the full write-up.
 
 <div class="grid" markdown>
+
+<div class="project-card" markdown>
+![](../assets/images/bhutan-lulc-dashboard.jpg)
+
+**[Bhutan Spatio-Temporal Land-Use Explorer](bhutan-lulc-dashboard.md)**
+
+A full-stack web GIS dashboard comparing NLCS LULC 2016 and 2020 across all 20
+Dzongkhags. It uses PostGIS overlay analysis to build land-use transition matrices,
+with an interactive choropleth map, linked charts and AI-generated district summaries.
+
+`PostGIS` `Node.js` `OpenLayers` `Chart.js` `MapServer`
+
+[View Project →](bhutan-lulc-dashboard.md){ .md-button }
+
+</div>
 
 <div class="project-card" markdown>
 ![](../assets/images/NSDI-project.png)
@@ -38,7 +44,7 @@ a system now hosting 113+ datasets.
 </div>
 
 <div class="project-card" markdown>
-![](../assets/images/alienable-land-cover.png)
+![](../assets/images/alienable-land-cover.jpg)
 
 **[Mapping of Alienable Land in Bhutan](alienable-land-mcda.md)**
 
@@ -50,20 +56,6 @@ Group, covering all 20 Dzongkhags.
 `QGIS` `ArcGIS Pro` `TerrSet` `AHP` `MCDA`
 
 [View Project →](alienable-land-mcda.md){ .md-button }
-
-</div>
-
-<div class="project-card" markdown>
-![](../assets/images/placeholder-notebook.png)
-
-**[Sample Notebook](sample-notebook.ipynb)**
-
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
-
-`Python` `pandas` `Folium`
-
-[View Project →](sample-notebook.ipynb){ .md-button }
 
 </div>
 
