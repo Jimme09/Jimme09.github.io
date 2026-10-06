@@ -8,7 +8,7 @@ A full-stack web GIS dashboard I built to explore land use across Bhutan's 20 Dz
 
 **Study Area:** National (all 20 Dzongkhags, Bhutan)
 **Role:** Solo project — data preparation, database, backend API and frontend
-**Status:** Working prototype (runs locally)
+**Status:** Working prototype — [live demo](https://jimme09.github.io/bhutan-landuse-dashboard/)
 
 ---
 
@@ -54,4 +54,7 @@ A full-stack web GIS dashboard I built to explore land use across Bhutan's 20 Dz
 
 ## Links
 
+[Open Live Demo :material-open-in-new:](https://jimme09.github.io/bhutan-landuse-dashboard/){ .md-button .md-button--primary }
 [View Code on GitHub :fontawesome-brands-github:](https://github.com/Jimme09/bhutan-landuse-dashboard){ .md-button }
+
+_The live demo runs on a static snapshot of the PostGIS results; the full version, with the live API and MapServer layer, runs locally._
